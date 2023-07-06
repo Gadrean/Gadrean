@@ -9,4 +9,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="Gitlab" width="5%">
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="5%">
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="5%">
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="C" width="5%">
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="C" width="5%">
 </div>
